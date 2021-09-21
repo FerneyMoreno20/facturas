@@ -2,7 +2,7 @@
     "posts": [
         {  
             "factura": "AD72",
-            "Valor": 611414.7,
+            "Valor": 2.7,
             "Descripcion": "Pago Recaudo",
             "Nombre": "Alejandra",
             "Apellido": "Correa",
@@ -28,7 +28,7 @@
         },
         {  
             "factura": "AD66",
-            "Valor": 1,
+            "Valor": 1.8,
             "Descripcion": "Pago Recaudo",
             "Nombre": "Andres",
             "Apellido": "Tangarife",
@@ -54,7 +54,7 @@
         },
         {  
             "factura": "AD68",
-            "Valor": 1,
+            "Valor": 1.5,
             "Descripcion": "Pago Recaudo",
             "Nombre": "Carlos",
             "Apellido": "Moreno",
@@ -67,7 +67,7 @@
         },
         {  
             "factura": "AD69",
-            "Valor": 1,
+            "Valor": 1.9,
             "Descripcion": "Pago Recaudo 2",
             "Nombre": "Carlos",
             "Apellido": "Moreno",

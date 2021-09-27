@@ -1,20 +1,7 @@
 {
     "posts": [
         {  
-            "factura": "ADN72",
-            "Valor": 2.7,
-            "Descripcion": "Pago Recaudo",
-            "Nombre": "Alejandra",
-            "Apellido": "Correa",
-            "Tipo de identificacion": "CC",
-            "Cedula":"1020480143",
-            "email": "maria.correa@payco.co",
-            "Ciudad": "Bello",  
-            "Telefono": "2582463",
-            "Celular": "3215468555"          
-        },
-        {  
-            "factura": "ADN65",
+            "factura": "ADC72",
             "Valor": 1,
             "Descripcion": "Pago Recaudo",
             "Nombre": "Alejandra",
@@ -27,9 +14,22 @@
             "Celular": "3215468555"          
         },
         {  
-            "factura": "ADN66",
-            "Valor": 1.8,
+            "factura": "ADC65",
+            "Valor": 2,
             "Descripcion": "Pago Recaudo",
+            "Nombre": "Alejandra",
+            "Apellido": "Correa",
+            "Tipo de identificacion": "CC",
+            "Cedula":"1020480143",
+            "email": "maria.correa@payco.co",
+            "Ciudad": "Bello",  
+            "Telefono": "2582463",
+            "Celular": "3215468555"          
+        },
+        {  
+            "factura": "ADC66",
+            "Valor": 1,
+            "Descripcion": "Pago Recaudo 1",
             "Nombre": "Andres",
             "Apellido": "Tangarife",
             "Tipo de identificacion": "CC",
@@ -40,33 +40,33 @@
             "Celular": "3215474555"          
         },
         {  
-            "factura": "ADN67",
-            "Valor": 1.7,
-            "Descripcion": "Pago Recaudo",
-            "Nombre": "Mario",
-            "Apellido": "Belalcazar",
+            "factura": "ADC67",
+            "Valor": 2,
+            "Descripcion": "Pago Recaudo 2",
+            "Nombre": "Andres",
+            "Apellido": "Tangarife",
             "Tipo de identificacion": "CC",
-            "Cedula":"1045841266",
-            "email": "mail@mail.com",
+            "Cedula":"1036640253",
+            "email": "andres.tangarife@payco.co",
             "Ciudad": "Caldas",  
             "Telefono": "2584463",
-            "Celular": "3215474555"          
+            "Celular": "3215474555"           
         },
         {  
-            "factura": "ADN68",
-            "Valor": 1.5,
-            "Descripcion": "Pago Recaudo",
-            "Nombre": "Carlos",
-            "Apellido": "Moreno",
+            "factura": "ADC68",
+            "Valor": 3,
+            "Descripcion": "Pago Recaudo 3",
+            "Nombre": "Andres",
+            "Apellido": "Tangarife",
             "Tipo de identificacion": "CC",
-            "Cedula":"1007856974",
-            "email": "carlos.moreno@epayco.com",
-            "Ciudad": "Medellin",  
-            "Telefono": "4445874",
-            "Celular": "3125447841"          
+            "Cedula":"1036640253",
+            "email": "andres.tangarife@payco.co",
+            "Ciudad": "Caldas",  
+            "Telefono": "2584463",
+            "Celular": "3215474555"           
         },
         {  
-            "factura": "ADN69",
+            "factura": "ADC69",
             "Valor": 1.9,
             "Descripcion": "Pago Recaudo 2",
             "Nombre": "Carlos",
@@ -79,7 +79,7 @@
             "Celular": "3125447841"          
         },
         {  
-            "factura": "ADN70",
+            "factura": "ADC70",
             "Valor": 2,
             "Descripcion": "Pago Recaudo",
             "Nombre": "Leidy",
@@ -92,7 +92,7 @@
             "Celular": "3205684106"          
         },
         {  
-            "factura": "ADN71",
+            "factura": "ADC71",
             "Valor": 3.1,
             "Descripcion": "Pago Recaudo",
             "Nombre": "Zion",

@@ -1,7 +1,7 @@
 {
     "posts": [
         {  
-            "factura": "ADC72",
+            "factura": "ADT72",
             "Valor": 1,
             "Descripcion": "Pago Recaudo",
             "Nombre": "Alejandra",
@@ -14,7 +14,7 @@
             "Celular": "3215468555"          
         },
         {  
-            "factura": "ADC65",
+            "factura": "ADT65",
             "Valor": 2,
             "Descripcion": "Pago Recaudo",
             "Nombre": "Alejandra",

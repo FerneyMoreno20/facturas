@@ -1,8 +1,8 @@
 {
     "posts": [
         {  
-            "factura": "ADT72",
-            "Valor": 1,
+            "factura": "ADP72",
+            "Valor": 1.4,
             "Descripcion": "Pago Recaudo",
             "Nombre": "Alejandra",
             "Apellido": "Correa",
@@ -14,8 +14,8 @@
             "Celular": "3215468555"          
         },
         {  
-            "factura": "ADT65",
-            "Valor": 2,
+            "factura": "ADP65",
+            "Valor": 2.6,
             "Descripcion": "Pago Recaudo",
             "Nombre": "Alejandra",
             "Apellido": "Correa",
@@ -27,8 +27,8 @@
             "Celular": "3215468555"          
         },
         {  
-            "factura": "ADC66",
-            "Valor": 1,
+            "factura": "ADP66",
+            "Valor": 1.8,
             "Descripcion": "Pago Recaudo 1",
             "Nombre": "Carlos",
             "Apellido": "Moreno",
@@ -40,8 +40,8 @@
             "Celular": "3215474555"          
         },
         {  
-            "factura": "ADC67",
-            "Valor": 2,
+            "factura": "ADP67",
+            "Valor": 2.3,
             "Descripcion": "Pago Recaudo 2",
             "Nombre": "Carlos",
             "Apellido": "Moreno",
@@ -53,8 +53,8 @@
             "Celular": "3215474555"           
         },
         {  
-            "factura": "ADC68",
-            "Valor": 3,
+            "factura": "ADP68",
+            "Valor": 3.1,
             "Descripcion": "Pago Recaudo 3",
             "Nombre": "Carlos",
             "Apellido": "Moreno",
@@ -66,7 +66,7 @@
             "Celular": "3215474555"           
         },
         {  
-            "factura": "ADC69",
+            "factura": "ADP69",
             "Valor": 1.9,
             "Descripcion": "Pago Recaudo 2",
             "Nombre": "Carlos",
@@ -79,8 +79,8 @@
             "Celular": "3125447841"          
         },
         {  
-            "factura": "ADC70",
-            "Valor": 2,
+            "factura": "ADP70",
+            "Valor": 2.6,
             "Descripcion": "Pago Recaudo",
             "Nombre": "Leidy",
             "Apellido": "Lopera",
@@ -92,7 +92,7 @@
             "Celular": "3205684106"          
         },
         {  
-            "factura": "ADC71",
+            "factura": "ADP71",
             "Valor": 3.1,
             "Descripcion": "Pago Recaudo",
             "Nombre": "Zion",

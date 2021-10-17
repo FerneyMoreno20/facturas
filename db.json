@@ -2,7 +2,7 @@
     "posts": [
         {  
             "factura": "ADP72",
-            "Valor": 1.4,
+            "Valor": 1,
             "Descripcion": "Pago Recaudo",
             "Nombre": "Alejandra",
             "Apellido": "Correa",
@@ -15,7 +15,7 @@
         },
         {  
             "factura": "ADP65",
-            "Valor": 2.6,
+            "Valor": 2,
             "Descripcion": "Pago Recaudo",
             "Nombre": "Alejandra",
             "Apellido": "Correa",
@@ -28,7 +28,7 @@
         },
         {  
             "factura": "ADP66",
-            "Valor": 1.8,
+            "Valor": 1,
             "Descripcion": "Pago Recaudo 1",
             "Nombre": "Carlos",
             "Apellido": "Moreno",
@@ -41,7 +41,7 @@
         },
         {  
             "factura": "ADP67",
-            "Valor": 2.3,
+            "Valor": 2,
             "Descripcion": "Pago Recaudo 2",
             "Nombre": "Carlos",
             "Apellido": "Moreno",
@@ -54,7 +54,7 @@
         },
         {  
             "factura": "ADP68",
-            "Valor": 3.1,
+            "Valor": 3,
             "Descripcion": "Pago Recaudo 3",
             "Nombre": "Carlos",
             "Apellido": "Moreno",
@@ -72,7 +72,7 @@
             "Nombre": "Carlos",
             "Apellido": "Moreno",
             "Tipo de identificacion": "CC",
-            "Cedula":"1007856974",
+            "Cedula":"1036640253",
             "email": "carlos.moreno@epayco.com",
             "Ciudad": "Medellin",  
             "Telefono": "4445874",
@@ -80,7 +80,7 @@
         },
         {  
             "factura": "ADP70",
-            "Valor": 2.6,
+            "Valor": 2,
             "Descripcion": "Pago Recaudo",
             "Nombre": "Leidy",
             "Apellido": "Lopera",
@@ -93,7 +93,7 @@
         },
         {  
             "factura": "ADP71",
-            "Valor": 3.1,
+            "Valor": 3,
             "Descripcion": "Pago Recaudo",
             "Nombre": "Zion",
             "Apellido": "Lennox",

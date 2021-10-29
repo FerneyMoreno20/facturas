@@ -2,7 +2,7 @@
     "posts": [
         {  
             "factura": "ADP72",
-            "Valor": 20,
+            "Valor": 2.456,
             "Descripcion": "Pago Recaudo",
             "Nombre": "Alejandra",
             "Apellido": "Correa",
@@ -15,7 +15,7 @@
         },
         {  
             "factura": "ADP65",
-            "Valor": 2,
+            "Valor": 3.76343,
             "Descripcion": "Pago Recaudo",
             "Nombre": "Alejandra",
             "Apellido": "Correa",
